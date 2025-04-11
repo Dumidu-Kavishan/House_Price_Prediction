@@ -3,10 +3,10 @@
 This project is a collaborative machine learning study conducted by a team of four members. We used the **House Prices - Advanced Regression Techniques** dataset from Kaggle to build and evaluate four different supervised learning models. Each member developed a separate model using a different algorithm to explore the strengths and limitations of various regression techniques.
 
 ## 👨‍💻 Team Members
-- Member 1 Name
-- Member 2 Name
-- Member 3 Name
-- Member 4 Name
+- IT21815614 - K.T.A.D.K Kasthurirathna
+- IT21834424 - R.S.K De Silva
+- IT21819810 - B.D.A.M Kumara
+- IT21838620 - S.U.D.A Gunasekara
 
 ## 📊 Dataset
 - **Source**: [Kaggle - House Prices: Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
@@ -17,7 +17,7 @@ Each team member implemented a different supervised learning model:
 1. **Linear Regression**
 2. **Decision Tree Regressor**
 3. **Random Forest Regressor**
-4. **Support Vector Regressor (SVR)**
+4. **Deep Learning (CNN-based)**
 
 ## 📈 Objectives
 - Understand and compare the performance of different regression models.
@@ -31,9 +31,6 @@ Each team member implemented a different supervised learning model:
 ## 🛠️ Technologies & Tools
 - Python
 - scikit-learn
-- Pandas, NumPy
+- Pandas, NumPy, Tensorflow
 - Matplotlib, Seaborn
 - Jupyter Notebooks
-
-## 📁 Project Structure
-├── data/ # Dataset files ├── notebooks/ # Individual model implementations (one per member) ├── results/ # Evaluation metrics and visualizations ├── README.md # Project overview and documentation
